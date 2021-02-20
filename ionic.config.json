@@ -1,0 +1,7 @@
+{
+  "name": "expenseTrack",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
